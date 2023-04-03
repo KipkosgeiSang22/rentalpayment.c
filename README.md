@@ -1,5 +1,6 @@
 // # rentalpayment.c
 //used to keep details of tenants after they make their rental payments
+
 #include <stdio.h>
 
 #include <stdlib.h>
