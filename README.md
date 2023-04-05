@@ -1,6 +1,7 @@
 // # rentalpayment.c
 //used to keep details of tenants after they make their rental payments
-
+//Username:Joshua
+//password:5976
 #include <stdio.h>
 
 #include <stdlib.h>
